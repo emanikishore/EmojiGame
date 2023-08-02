@@ -1,0 +1,37 @@
+.win-or-lose-container {
+  display: flex;
+  background-color: #ffffff30;
+  padding: 40px;
+  border-radius: 15px;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 50%;
+}
+.score1-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.game-status {
+  font-size: 40px;
+}
+.score-label {
+  font-size: 30px;
+  font-weight: bold;
+}
+.score1 {
+  font-size: 30px;
+  color: #6a59ff;
+  font-weight: bold;
+}
+.btn {
+  color: black;
+  background-color: #ffce27;
+  border: none;
+  padding: 8px;
+  font-weight: bold;
+  border-radius: 5px;
+
+  cursor: pointer;
+}

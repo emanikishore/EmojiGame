@@ -1,0 +1,26 @@
+.title {
+  color: white;
+  font-size: 20px;
+}
+.nav-container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px 70px;
+}
+.logo-container {
+  display: flex;
+  width: 100%;
+}
+.score-container {
+  display: flex;
+  width: 100%;
+  justify-content: end;
+  color: white;
+}
+.score {
+  padding-right: 10px;
+}
+.topScore {
+  padding-left: 20px;
+}
